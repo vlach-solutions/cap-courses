@@ -1,0 +1,1 @@
+using CourseService as service from '../../srv/courses-service';
